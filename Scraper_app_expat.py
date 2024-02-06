@@ -89,7 +89,7 @@ import streamlit.components.v1 as components
 
 
 components.html("""
-    <iframe src="https://ee.kobotoolbox.org/i/y3pfGxMz" width="700" height="200"></iframe>
+    <iframe src="https://ee.kobotoolbox.org/i/y3pfGxMz" width="700" height="500"></iframe>
     """)
 
 
